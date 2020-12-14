@@ -1,0 +1,27 @@
+h1, h2, h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #494949;
+}
+
+
+p, ul, td{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+table{
+    align-items: center;
+    border: black solid 1px;
+    border-collapse: collapse;
+    width: 800px;
+}
+
+tr{
+    border-bottom: lightgrey solid 1px;
+    padding: 10px;
+}
+
+thead{
+    color: red;
+}
